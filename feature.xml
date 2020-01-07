@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="ASM Plugin 6-2"
+      label="ASM Plugin 6-2"
+      version="1.0.0.qualifier"
+      provider-name="Axiomatics Inc.">
+
+   <description url="http://www.example.com/description">
+      Plugin for ASM 6.2.x version
+The plugin helps users to manage Attributes and Policies from ASM and vice-versa
+Policy Management
+ - Download Policies from ASM
+ - Upload Policies to ASM
+Attribute Management
+ - Download Dictionary Attributes from ASM
+ - Upload Attributes into ASM dictionary
+ - Translate ALFA Dictionary Attributes to XML Attributes
+ - Translates XML dictionary Attributes to ALFA Attributes
+Copyright (c) 2012-2019, Axiomatics AB
+Check http://www.axiomatics.com for updates, documentation and
+support.
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      Copyright Axiomatics AB, 2012-2019
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      AXIOMATICS LICENSE AGREEMENT
+
+READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT (&quot;AGREEMENT&quot;) CAREFULLY BEFORE CLICKING THE ACCEPT BUTTON AND/OR DOWNLOADING OR INSTALLING THE ACCOMPANYING COMPUTER SOFTWARE (TOGETHER WITH ITS DOCUMENTATION, THE &quot;PROGRAM&quot;). THIS IS A LEGAL ENFORCEABLE AGREEMENT BETWEEN YOU, THE PERSON OR ENTITY CLICKING THE ACCEPT BUTTON AND/OR DOWNLOADING THE PROGRAM (&quot;LICENSEE&quot;), AND AXIOMATICS (DEFINED BELOW). BY CLICKING THE ACCEPT BUTTON OR DOWNLOADING, INSTALLING OR USING ANY PART OF THE PROGRAM, LICENSEE EXPRESSLY AGREES TO AND CONSENTS TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT. THE PROGRAM IS COPYRIGHTED, AND IS LICENSED TO LICENSEE UNDER THE TERMS OF THIS AGREEMENT (NOT SOLD). THE INDIVIDUAL ACTING ON BEHALF OF LICENSEE REPRESENTS THAT HE OR SHE HAS THE AUTHORITY TO ENTER INTO THIS AGREEMENT ON BEHALF OF LICENSEE. IF LICENSEE IS NOT WILLING TO BE BOUND BY THE TERMS OF THIS AGREEMENT, DO NOT CLICK ACCEPT OR DOWNLOAD, INSTALL OR OTHERWISE USE THE PROGRAM.
+
+As used in this Agreement, and unless otherwise mutually agreed in writing, &quot;Axiomatics&quot; means:
+
+∙  Axiomatics AB, incorporated in Sweden, Company No. 556708-1012, if Licensee is not a US Government Entity.
+∙  Axiomatics Federal, Inc., a Delaware corporation, if Licensee is a US Government Entity.
+
+&quot;US Government Entity&quot; means any authority (including any department, agency or sub-agency) of any branch of the United States Federal Government or of any U.S. state, territorial, tribal or local government, whether or not it is within or subject to review by another agency.
+
+THIS AGREEMENT REPRESENTS THE ENTIRE AGREEMENT CONCERNING THE PROGRAM BETWEEN LICENSEE AND AXIOMATICS, AND IT SUPERSEDES ANY PRIOR PROPOSAL, AGREEMENT OR UNDERSTANDING BETWEEN THE PARTIES CONCERNING THE PROGRAM.
+
+1. LICENSE GRANT. Axiomatics hereby grants to Licensee, and Licensee accepts, a personal, limited, non-exclusive, non-transferable, non-sublicensable license to use the Program, in machine-readable, object code form only, and including the output of the Program. The Program shall be used only on computers owned, leased or otherwise controlled by Licensee. Licensee shall not assign, sublicense, transfer, distribute, pledge, lease, rent or share the Program or Licensee&apos;s rights under this Agreement. Licensee shall use the Program only in the ordinary course of Licensee&apos;s business. Licensee shall not reproduce or modify, or create derivative works of or based upon, the Program or any portion thereof. Licensee shall comply with all applicable laws in connection with its use of the Program. Licensee shall not tamper with any proprietary notices or marks appearing on or within the Program. Axiomatics reserves the right, now and in the future, to offer all or part of the Program for purchase.
+
+2. LIMITS ON REVERSE ENGINEERING. Licensee shall not reverse engineer, decompile, disassemble or otherwise reduce the Program to another computer language or a human perceivable form, except and only to the extent that such activity is expressly permitted by mandatory applicable law notwithstanding this limitation.
+
+3. NO TRADEMARK LICENSE. This Agreement does not grant Licensee any rights in connection with any trademarks, trade names or service marks of Axiomatics or its affiliates.
+
+4. AXIOMATICS’ RIGHTS. All rights not expressly granted by Axiomatics are reserved. Without limitation, Licensee acknowledges and agrees that as between the parties, all right, title and interest in and to the Program, including all associated intellectual property rights, are and shall remain with Axiomatics or its applicable licensors. This Agreement does not convey to Licensee an interest in or to the Program, but only a limited right of use revocable in accordance with the terms of this Agreement. Licensee agrees to take all reasonable steps to safeguard the Program to ensure that no unauthorized person shall have access to the Program and that no unauthorized use is made of the Program.
+
+5. TERM. This Agreement is effective upon Licensee clicking the accept button or downloading or installing the Program, whichever occurs first, and shall continue until terminated. Licensee may terminate this Agreement at any time by destroying the Program and all copies thereof. Axiomatics may terminate this Agreement in its sole discretion and without notice, at any time, and for any reason or no reason. If Axiomatics releases a commercial version of this Program, this Agreement shall immediately terminate. Upon termination of this Agreement, all rights granted under this Agreement shall terminate and Licensee shall promptly destroy the Program together with all copies and merged portions in any form.
+
+6. NO UPGRADES OR SUPPORT. This Agreement does not grant Licensee any right to any improvements, modifications, enhancements, updates or commercial versions of the Program, or to support services. Axiomatics, from time-to-time, in its sole discretion, may make available for download (or via other distribution methods), patches, updates or upgrades (collectively &quot;Update(s)&quot;) for the Program. Any such Update that Licensee downloads and installs shall be part of the Program and subject to the terms of this Agreement. Use of improvements, modifications, enhancements and updates shall be governed by the terms of this Agreement.
+
+7. DISCLAIMER OF WARRANTIES AND OF TECHNICAL SUPPORT. THE PROGRAM IS PROVIDED TO LICENSEE ON AN &quot;AS IS&quot; BASIS, WITHOUT ANY TECHNICAL SUPPORT AND WITHOUT ANY REPRESENTATION OR WARRANTY OF ANY KIND FROM AXIOMATICS OR ITS AFFILIATES, WHETHER WRITTEN OR ORAL, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SATISFACTORY QUALITY, NON-INFRINGEMENT OR OWNERSHIP OR ARISING FROM A COURSE OF DEALING, USAGE OR TRADE PRACTICE, ALL OF WHICH ARE HEREBY EXCLUDED TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. WITHOUT LIMITATION, AXIOMATICS DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE PROGRAM WILL MEET LICENSEE’S REQUIREMENTS, OR THAT THE OPERATION OF THE PROGRAM WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE PROGRAM WILL BE CORRECTED. FURTHERMORE, AXIOMATICS DOES NOT WARRANT OR MAKE ANY REPRESENTATIONS REGARDING THE USE OR THE RESULTS OF THE USE OF THE PROGRAM, WHETHER IN TERMS OF ITS CORRECTNESS, ACCURACY, RELIABILITY OR OTHERWISE. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY AXIOMATICS OR ITS AFFILIATES OR AUTHORIZED REPRESENTATIVES SHALL CREATE A REPRESENTATION OR WARRANTY. SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES IN CERTAIN CIRCUMSTANCES, SO THE ABOVE EXCLUSION OR PORTIONS THEREOF MAY NOT APPLY TO LICENSEE.
+
+8. LIMITATION OF DAMAGES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL AXIOMATICS OR ITS AFFILIATES, LICENSORS OR OTHER SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, PUNITIVE, EXEMPLARY OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, INCLUDING THE USE OF OR INABILITY TO USE THE PROGRAM, REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), BREACH OF STATUTORY DUTY OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES AND JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES IN CERTAIN CIRCUMSTANCES, THE ABOVE LIMITATION MAY NOT APPLY TO LICENSEE.
+
+9. LIMITATION OF LIABILITY. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, AXIOMATICS’ AND ITS AFFILIATES’ ENTIRE LIABILITY AND LICENSEE’S EXCLUSIVE REMEDY UNDER THIS AGREEMENT SHALL NOT EXCEED FIVE DOLLARS (US$5.00). Nothing in this Agreement shall exclude or limit any liability that cannot be excluded or limited by mandatory applicable law.
+
+10. LIMITATIONS ARE MATERIAL BASIS OF THE BARGAIN. THE EXCLUSIVE REMEDIES AND LIMITED LIABILITY SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN AXIOMATICS AND LICENSEE. LICENSEE AGREES THAT AXIOMATICS WOULD NOT BE ABLE TO PROVIDE THE PROGRAM ON AN ECONOMIC BASIS WITHOUT SUCH LIMITATIONS.
+
+11. GOVERNING LAW AND JURISDICTION. This Agreement shall be governed by and construed in accordance with the laws of (a) Sweden, exclusive of Swedish Private International Law, if &quot;Axiomatics&quot;, as defined above, is Axiomatics AB, in which case the courts of Sweden shall have exclusive jurisdiction over matters arising out of or in connection with this Agreement, or (b) the State of New York, exclusive of its principles of conflicts of laws, if &quot;Axiomatics&quot;, as defined above, is Axiomatics Federal, Inc., in which case the courts of the State of New York shall have exclusive jurisdiction over matters arising out of or in connection with this Agreement; and the parties irrevocably consent to the exclusive jurisdiction of such courts.  To the maximum extent permitted by applicable law, each party hereby irrevocably waives its right to a trial by jury. Application of the United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transactions Act (UCITA) are expressly excluded.
+
+12. U.S. GOVERNMENT. U.S. Government licensees and end users acknowledge and agree that the Program and its documentation: are &quot;commercial items&quot; as defined in 48 C.F.R. §2.101; are &quot;commercial computer software or commercial computer software documentation&quot; as that phrase is used in 48 C.F.R. §12.212 and §227.7202; and that, per such regulations, are acquired under this license &quot;customarily provided to the public&quot;.
+
+13. SEVERABILITY. If any provisions of this Agreement are rendered invalid, the remaining provisions shall remain in full force and effect.
+
+14. GENERAL. (a) Licensee may not assign its rights nor delegate its obligations under this Agreement without the prior written consent of Axiomatics, and any such assignment or delegation without such consent shall be null and void. (b) This Agreement sets forth the entire agreement and understanding between the parties with respect to the subject matter herein, and supersedes all prior written and oral agreements, discussions and understandings, express or implied, between the parties concerning such matters. (c) This Agreement may be amended, or any of its provisions waived, only by written agreement signed by both parties.  Any failure or delay by a party to enforce or exercise any right or remedy shall not be deemed a waiver of such or any other right or remedy.  Any waiver of any breach shall not be deemed to be a waiver of any other or subsequent breach.
+
+AXIOMATICS LICENSE AGREEMENT Rev. February 16, 2018
+   </license>
+
+   <requires>
+      <import plugin="org.apache.commons.codec"/>
+      <import plugin="org.apache.commons.httpclient"/>
+      <import plugin="org.apache.commons.io"/>
+      <import plugin="org.eclipse.core.expressions"/>
+      <import plugin="org.eclipse.core.resources"/>
+      <import plugin="org.eclipse.core.runtime"/>
+      <import plugin="org.eclipse.jdt.core"/>
+      <import plugin="org.eclipse.ui"/>
+   </requires>
+
+   <plugin
+         id="ASM_plugin_6-2"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
